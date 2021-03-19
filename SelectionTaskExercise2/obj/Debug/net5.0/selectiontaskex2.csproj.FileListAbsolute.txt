@@ -1,0 +1,16 @@
+C:\Users\suzuk\projects\selectiontaskex2\bin\Debug\net5.0\selectiontaskex2.exe
+C:\Users\suzuk\projects\selectiontaskex2\bin\Debug\net5.0\selectiontaskex2.deps.json
+C:\Users\suzuk\projects\selectiontaskex2\bin\Debug\net5.0\selectiontaskex2.runtimeconfig.json
+C:\Users\suzuk\projects\selectiontaskex2\bin\Debug\net5.0\selectiontaskex2.runtimeconfig.dev.json
+C:\Users\suzuk\projects\selectiontaskex2\bin\Debug\net5.0\selectiontaskex2.dll
+C:\Users\suzuk\projects\selectiontaskex2\bin\Debug\net5.0\ref\selectiontaskex2.dll
+C:\Users\suzuk\projects\selectiontaskex2\bin\Debug\net5.0\selectiontaskex2.pdb
+C:\Users\suzuk\projects\selectiontaskex2\obj\Debug\net5.0\selectiontaskex2.csprojAssemblyReference.cache
+C:\Users\suzuk\projects\selectiontaskex2\obj\Debug\net5.0\selectiontaskex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzuk\projects\selectiontaskex2\obj\Debug\net5.0\selectiontaskex2.AssemblyInfoInputs.cache
+C:\Users\suzuk\projects\selectiontaskex2\obj\Debug\net5.0\selectiontaskex2.AssemblyInfo.cs
+C:\Users\suzuk\projects\selectiontaskex2\obj\Debug\net5.0\selectiontaskex2.csproj.CoreCompileInputs.cache
+C:\Users\suzuk\projects\selectiontaskex2\obj\Debug\net5.0\selectiontaskex2.dll
+C:\Users\suzuk\projects\selectiontaskex2\obj\Debug\net5.0\ref\selectiontaskex2.dll
+C:\Users\suzuk\projects\selectiontaskex2\obj\Debug\net5.0\selectiontaskex2.pdb
+C:\Users\suzuk\projects\selectiontaskex2\obj\Debug\net5.0\selectiontaskex2.genruntimeconfig.cache
